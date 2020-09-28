@@ -1,56 +1,38 @@
 # homepage
 homepage:
   head:
-    title: "Home | Raditian"
+    title: "Home | Kivalina" 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  title: "Hi, I’m Kivalina Grove."
+  subtitle: "I study practice theory."
+  description: "I'm a Ph.D. Candidate in Marketing at the <a target= '_blank' href='https://business.uoregon.edu/faculty/kivalina-grove'>Lundquist College of Business, University of Oregon</a>."
   image:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    alt: "Kivalina Grove"
+    x: "img/squaretemp.png"
+    _2x: "img/squaretemp.png"
   imageMobile:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
+    alt: "Kivalina Grove"
+    x: "img/squaretemp.png"
 
   button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    icon: "icon-arrow-right"
+    btnText: " University Webpage"
+    URL: "kgrove@uoregon.edu"
 
   socialLinks:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/company/radity/"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/kgrove10"
 
     - icon: "twitter"
       URL: "https://twitter.com/radity"
 
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
 
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
 
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
 
 # about
 about:
@@ -214,18 +196,18 @@ testimonial:
 contact:
   enable: true
   title: "Contact"
+  phone: 
+    title: "Phone Number"
+    number: "541-541-0000"
   form:
     method: "POST"
     action: "#"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+41 (44) 505 10 99"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:kgrove@uoregon.edu">kgrove@uoregon.edu</a>'
   address:
     title: "Address"
     address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
@@ -240,3 +222,4 @@ newsletter:
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
   note: "We'll never share your email with anyone else."
+  
