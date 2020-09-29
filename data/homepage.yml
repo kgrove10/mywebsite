@@ -18,8 +18,8 @@ showcase:
 
   button:
     icon: "icon-arrow-right"
-    btnText: " University Webpage"
-    URL: "kgrove@uoregon.edu"
+    btnText: "University Webpage"
+    URL: 'https://business.uoregon.edu/faculty/kivalina-grove'
 
   socialLinks:
     - icon: "linkedin"
@@ -185,7 +185,7 @@ testimonial:
         x: "img/testimonials/jonathan-peters.jpg"
         _2x: "img/testimonials/jonathan-peters@2x.jpg"
 
-    - name: "Antonio Willis"
+    - name: "Antonio Willis" 
       position: "Cyberse, CEO"
       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
