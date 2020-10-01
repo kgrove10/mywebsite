@@ -1,8 +1,8 @@
 # homepage 
 homepage:
-  head:
+  head: 
     title: "Home | Kivalina" 
-# showcase
+# showcase 
 showcase:
   enable: true
   title: "Hi, I’m Kivalina Grove."
