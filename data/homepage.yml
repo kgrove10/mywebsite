@@ -95,7 +95,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Teaching"
+  title: "My Teaching"
   enable: true
   works:
     - title: "Recipient of the 2020 Robin and Rodger Best Teaching Excellence Award"
@@ -114,7 +114,7 @@ client_and_work:
 # contact
 contact:
   enable: true
-  title: "Contact"
+  title: "Contact Me"
   phone: 
     title: "Phone"
     number: "541-346-9115"
