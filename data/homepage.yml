@@ -34,17 +34,16 @@ showcase:
 # education
 education:
   enable: true
-  title:  
+  title:  "Some questions that motivate my research"
   items:
-    - university: "Project #1 Info?"
-      year: "Publication info?"
-      degree: "Journal Info?"
+    - university: "How do consumers return to a practice after a gap in its enactment?"
+      year: 
+      degree: 
 
-    - university: "Project #2 Info"
-      year: "Publication date?"
-      degree: "Journal info?"
+    - university: "How does distributed maintenance occur in collaborative consumption platforms?"
+      year: 
+      degree: 
       
-
  
 
 # about
@@ -103,8 +102,9 @@ client_and_work:
         Because I study practices, my teaching goal is to help my students develop their own practices. I want my classes to empower my students to form practices of learning by applying their own experiences and knowledge to class material, embedding meaning, and forming competencies that allow them to identify and understand the marketing phenomena that surround them.
         </p>
         <p class="lead">
-        I am prepared to teach: Consumer Behavior, Marketing Research, and... some other classes?
-        </p>'
+        I have taught Consumer Behavior & Marketing Research. I am prepared to teach Marketing Management, Intro to Marketing, Marketing Communications, & Marketing Strategy.
+        </p>
+        Most recent teaching evaluation: 4.91/5'
       image:
         x: "img/NorthwestSymposium.JPG"
         _2x: "img/NorthwestSymposium.JPG"
@@ -123,5 +123,5 @@ contact:
     email: '<a href="mailto:kgrove@uoregon.edu">kgrove@uoregon.edu</a>'
   address:
     title: "Address"
-    address: "Anstett 292A<br />University of Oregon<br />Eugene, OR, 97403"
+    address: "Anstett 292A<br />University of Oregon<br />Eugene, OR, 97403 <br /> <br /> Also available by videoconference"
 
