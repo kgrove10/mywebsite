@@ -2,6 +2,7 @@
 homepage:
   head: 
     title: "Home | Kivalina" 
+
 # showcase 
 showcase:
   enable: true
@@ -52,10 +53,7 @@ about:
     My research takes a multi-method approach to understanding practices. Through in-depth interviews, intercept interviews, surveys, and experiments, I seek to examine how practices come to be formed, interrupted, abandoned, and recovered. My research also addresses the integration of practices within larger networks, such as prosocial consumer behavior in collaborative consumption platforms. The research I do is grounded in a desire to make theoretical contributions while also providing meaningful and impactful insights at the individual and community level.
     </p>
     <p class="lead">
-    I take a multi-disciplinary apprach to research, and served on a resiliance initiative grant team with members from Marketing, Psychology, Public Policy Planning and Management, and city officials to examine the impact of COVID-19 on transportation and behavior locally.For the past 3 years, I have worked with the local PeaceHealth Rides bicycle sharing program to provide insights into their infrastructure and users.
-    </p>
-    <p class="lead">
-    I also enjoy programming, earning a specialization in Data Science from the University of Oregon, and have used these skills to analyze data from social media, create this website, and construct a variety of data visualizations, including the one linked below. 
+    I also enjoy programming, earning a specialization in Data Science from the University of Oregon, and have used these skills to analyze data from social media, create this website, and construct a variety of data visualizations. 
     </p>'
   button:
     icon: "icon-profile-fill"

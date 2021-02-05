@@ -26,7 +26,7 @@ theme = "raditian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "Research"
+  name = "research"
   URL = "#research"
   weight = 2
 
