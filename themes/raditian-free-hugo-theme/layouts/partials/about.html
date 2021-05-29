@@ -3,13 +3,6 @@
   <div class="container rad-fade-down">
     <div class="row d-flex flex-column-reverse flex-md-row">
       <div class="about__profile-picture col-12 col-md-6">
-        <p></p>
-                      <h2 class=" rad-animation-group rad-fade-down">
-       {{ .Site.Data.homepage.about.title }}
-       <p></p>
-     </h2>
-
-        <p></p>
         <img
           class="lozad img-responsive img-clip-right-forward"
           src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
@@ -19,7 +12,15 @@
         />
       </div>
       <p></p>
+      
       <div class="col-12 col-md-6 my-auto my-auto">
+                <p></p>
+                      <h2 class=" rad-animation-group rad-fade-down">
+       {{ .Site.Data.homepage.about.title }}
+       <p></p>
+     </h2>
+
+        <p></p>
         <p class="lead">
           {{ .Site.Data.homepage.about.content | safeHTML }}
         </p>

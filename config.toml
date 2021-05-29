@@ -3,11 +3,11 @@ languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
 # Plugins
-[params.plugins] 
+[params.plugins]  
 
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "css/main.css"
+  URL = "css/main.css" 
   [[params.plugins.css]]
   URL = "css/rad-icons.css"
   [[params.plugins.css]]
@@ -56,12 +56,14 @@ theme = "raditian-free-hugo-theme"
   URL = "#contact"
   weight = 4
 
-
-[params]
+ 
+[params] 
 
   sections = ["showcase", "about", "education", "client-and-work", "testimonial", "contact"]
 
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  #googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  favicon = "img/favicon.ico"
 
   [params.logo]
     text1 = "Kivalina"
