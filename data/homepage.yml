@@ -7,8 +7,8 @@ homepage:
 showcase:
   enable: true
   title: "Hi, I’m Kivalina Grove."
-  subtitle: "I study practices."
-  description: "I'm a Ph.D. Candidate in Marketing at the <a target= '_blank' href='https://business.uoregon.edu/faculty/kivalina-grove'>Lundquist College of Business, University of Oregon</a>."
+  subtitle: "I study practices that contribute to individual and community well-being."
+  description: "I'm an Assistant Professor of Marketing at the <a target= '_blank' href='https://umanitoba.ca/asper/kivalina-grove'>Asper School of Business, University of Manitoba</a>."
   image:
     alt: "Kivalina Grove"
     x: "img/kgrove.png"
@@ -20,7 +20,7 @@ showcase:
   button:
     icon: "icon-smile-fill"
     btnText: "View My Curriculum Vitae"
-    URL: 'https://drive.google.com/file/d/146gwRt_IPoholiVfA2Az3o6UcqbGrH2H/view?usp=sharing'
+    URL: 'https://drive.google.com/file/d/1H0rLn1NhVa3CNdx7rWqyAjLf9xQ4hzTh/view?usp=share_link'
 
   socialLinks:
     - icon: "github"
@@ -38,19 +38,19 @@ education:
   items:
     - university: "What is Consumer Practice Recovery?"
       year: "2021 Rodger and Robin Best Award for Doctoral Research"
-      degree: "with Linda L. Price, Revision Requested at JCR"
+      degree: "with Linda L. Price, Under Revision for Resubmission to JCR"
 
-    - university: "How does Distributed Maintenance Occur in Access-Based Consumption Platforms?"
+    - university: "How does Consumer Stewardship Occur in Access-Based Consumption Platforms?"
       year: 
       degree: "with D. Matthew Godfrey & Linda L. Price, Manuscript in Preparation"
     
     - university: "How do Consumers Return to a Habituated Practice After an Involuntary Gap in its Enactment?"
       year: 
-      degree: "with Sara Hodges and Linda L. Price, Data Collection in Progress"
+      degree: "with Sara D. Hodges and Linda L. Price, Data Collection in Progress"
 
     - university: "How does Practice Disruption Impact Transportation Choices?"
       year: "Multi-disciplinary Grant: Resilience Initiative Seed Funding Award"
-      degree: "with Rebecca Lewis, Yizhao Yang, Sara Hodges, and Linda L. Price"
+      degree: "with Rebecca Lewis, Yizhao Yang, Sara D. Hodges, and Linda L. Price"
   
 
 # about
@@ -111,9 +111,9 @@ client_and_work:
         Because I study practices, my teaching goal is to help my students develop their own practices. My classes empower my students to form practices of learning by applying their own experiences and knowledge to class material, embedding meaning, and forming competencies that allow them to identify and understand the marketing phenomena that surround them.
         </p>
         <p class="lead">
-        I have taught Consumer Behavior & Marketing Research. I am prepared to teach Marketing Analytics, Marketing Management, Intro to Marketing, Marketing Communications, Marketing Strategy, Qualitative Research Methods, & Data Analytics, including Geospatial Analysis and Machine Learning.
+        I have taught Consumer Behavior, Fundamentals of Marketing and Marketing Research. I am prepared to teach Marketing Analytics, Marketing Management, Intro to Marketing, Marketing Communications, Marketing Strategy, Qualitative Research Methods, & Data Analytics, including Geospatial Analysis and Machine Learning.
         </p>
-        Most recent teaching evaluation: 4.91/5'
+        Most recent teaching evaluation: 4.89/5'
       image:
         x: "img/NorthwestSymposium.JPG"
         _2x: "img/NorthwestSymposium.JPG"
@@ -126,11 +126,11 @@ contact:
   title: "Contact Me"
   phone: 
     title: "Phone"
-    number: "541-346-9115"
+    number: "204-474-6787"
   email:
     title: "Email"
-    email: '<a href="mailto:kgrove@uoregon.edu">kgrove@uoregon.edu</a>'
+    email: '<a href="mailto:kivalina.grove@umanitoba.ca">kivalina.grove@umanitoba.ca</a>'
   address:
     title: "Address"
-    address: "Anstett 292A<br />University of Oregon<br />Eugene, OR, 97403 <br /> <br /> Also available by videoconference"
+    address: "662 Drake Centre<br />University of Manitoba<br />Winnipeg, Manitoba, R3T 5V4 <br /> <br /> Also available by videoconference"
 
